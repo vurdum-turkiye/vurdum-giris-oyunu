@@ -1,6 +1,6 @@
 # Vurdum - Online Platform
 
-![Vurdum Logo](https://via.placeholder.com/800x200/667eea/ffffff?text=VURDUM)
+![Vurdum Logo](https://www.vurdum.com/images/vd-logo.png)
 
 ## 🎯 Vurdum Nedir?
 
